@@ -5,5 +5,6 @@ Cuando un globo explota, produce un sonido corto y fuerte. ¿Puedes predecir la 
 
 ## Conformación del grupo:
 - Santiago Correa Vergara - 2182212
+- Michel Calderon - 2210710
 - Juan David Verano Ramírez - 2221093
-- Mitchell 
+ 
