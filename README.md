@@ -8,3 +8,4 @@ Cuando un globo explota, produce un sonido corto y fuerte. ¿Puedes predecir la 
 - Michel Calderon - 2210710
 - Juan David Verano Ramírez - 2221093
  
+Lo invitamos a revisar los archivos README.md de cada una de las subcarpetas de este repositorio para conocer más acerca del contenido.
