@@ -10,4 +10,4 @@ Cuando un globo explota, produce un sonido corto y fuerte. ¿Puedes predecir la 
  
 Lo invitamos a revisar los archivos README.md de cada una de las subcarpetas de este repositorio para conocer más acerca del contenido.
 
-Aquí podrá encontrar la [propuesta de investigación](https://www.overleaf.com/read/pvqxhqzhzsnr#880a32)
+Aquí podrá encontrar la [propuesta de investigación v.1.0](https://www.overleaf.com/read/pvqxhqzhzsnr#880a32)
